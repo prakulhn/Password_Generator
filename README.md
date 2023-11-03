@@ -1,1 +1,1 @@
-# Password_Generator
+The "Password Generator Program" is implemented as the part of my Python learning through 'Jenny's Lectures CS IT: Python Basic to Advanced' on Youtube.
